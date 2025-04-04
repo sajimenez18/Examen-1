@@ -1,0 +1,12 @@
+nav {
+    background-color: rgb(211, 139, 5);
+
+    width: 600px;
+    height: 40px;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    color: white;
+}

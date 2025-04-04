@@ -1,0 +1,10 @@
+.todo {
+    background-color: blue;
+    width: 560px;
+    height: 200px;
+
+    padding: 20px;
+
+    display: flex;
+    flex-direction: row;
+}
